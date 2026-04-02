@@ -20,6 +20,19 @@ O projeto foi desenvolvido com foco em praticar **Programação Orientada a Obje
 - 💰 Calcular total do cofrinho
 
 ## 🏗️ Estrutura do Projeto
+bin/
+└── cofrinho/
+    
+src/
+└── cofrinho/
+    ├── Cofrinho.class
+    ├── Cofrinho.java
+    ├── Principal.class
+    ├── Principal.java
+
+.classpath
+.project
+README.md
 
 ## 🧩 Arquitetura
 
