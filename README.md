@@ -20,6 +20,7 @@ O projeto foi desenvolvido com foco em praticar **Programação Orientada a Obje
 - 💰 Calcular total do cofrinho
 
 ## 🏗️ Estrutura do Projeto
+<img width="308" height="311" alt="image" src="https://github.com/user-attachments/assets/65a744ce-0db7-4f5d-9127-c0182712ee25" />
 
 ## 🧩 Arquitetura
 
